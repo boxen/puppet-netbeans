@@ -15,4 +15,3 @@ include netbeans::php   # Netbeans PHP
 ## Required Puppet Modules
 
 * `boxen`
-* `stdlib`
