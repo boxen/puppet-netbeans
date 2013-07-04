@@ -1,4 +1,6 @@
-# Netbeans Puppet Module for Boxen [![Build Status](https://travis-ci.org/eloipoch/puppet-netbeans.png?branch=master)](https://travis-ci.org/eloipoch/puppet-netbeans)
+# Netbeans Puppet Module for Boxen 
+
+[![Build Status](https://travis-ci.org/boxen/puppet-netbeans.png?branch=master)](https://travis-ci.org/boxen/puppet-netbeans)
 
 Install [Netbeans](https://netbeans.org/), an Open Source IDE aiming to provide a universal toolset for development.
 
