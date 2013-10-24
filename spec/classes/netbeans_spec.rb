@@ -5,7 +5,7 @@ describe 'netbeans' do
     should contain_class('netbeans')
     should contain_package('netbeans').with({
       :provider => 'pkgdmg',
-      :source   => 'http://download.netbeans.org/netbeans/7.3.1/final/bundles/netbeans-7.3.1-macosx.dmg'
+      :source   => 'http://dlc.sun.com.edgesuite.net/netbeans/7.4/final/bundles/netbeans-7.4-macosx.dmg'
     })
   end
 end
