@@ -6,6 +6,6 @@
 class netbeans::jse {
   package { 'netbeans':
     provider => 'pkgdmg',
-    source   => 'http://download.netbeans.org/netbeans/7.3.1/final/bundles/netbeans-7.3.1-javase-macosx.dmg',
+    source   => 'http://dlc.sun.com.edgesuite.net/netbeans/7.4/final/bundles/netbeans-7.4-jse-macosx.dmg',
   }
 }
