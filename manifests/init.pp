@@ -6,6 +6,6 @@
 class netbeans {
   package { 'netbeans':
     provider => 'pkgdmg',
-    source   => 'http://download.netbeans.org/netbeans/7.3.1/final/bundles/netbeans-7.3.1-macosx.dmg',
+    source   => 'http://download.netbeans.org/netbeans/8.0/final/bundles/netbeans-8.0-macosx.dmg',
   }
 }
