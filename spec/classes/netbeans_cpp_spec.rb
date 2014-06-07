@@ -5,7 +5,7 @@ describe 'netbeans::cpp' do
     should contain_class('netbeans::cpp')
     should contain_package('netbeans').with({
       :provider => 'pkgdmg',
-      :source   => 'http://download.netbeans.org/netbeans/7.3.1/final/bundles/netbeans-7.3.1-cpp-macosx.dmg'
+      :source   => 'http://download.netbeans.org/netbeans/8.0/final/bundles/netbeans-8.0-cpp-macosx.dmg'
     })
   end
 end
